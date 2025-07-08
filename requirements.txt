@@ -1,0 +1,7 @@
+networkx
+matplotlib
+textblob
+sherlock
+instaloader
+snscrape
+openai
